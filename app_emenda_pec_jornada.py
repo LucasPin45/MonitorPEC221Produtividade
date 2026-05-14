@@ -229,6 +229,8 @@ Pedro Westphalen
 Marcel van Hattem
 Da Vitoria
 Pezenti
+Carlos Gomes
+Daniel Freitas
 """
 
 PREFIX_STRIP_RE = re.compile(
