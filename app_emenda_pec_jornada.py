@@ -231,6 +231,10 @@ Da Vitoria
 Pezenti
 Carlos Gomes
 Daniel Freitas
+Nicoletti
+Renata Abreu
+Afonso Hamm
+Paulo Marinho Jr
 """
 
 PREFIX_STRIP_RE = re.compile(
