@@ -235,6 +235,8 @@ Nicoletti
 Renata Abreu
 Afonso Hamm
 Paulo Marinho Jr
+Mersinho Lucena
+Chris Tonietto
 """
 
 PREFIX_STRIP_RE = re.compile(
